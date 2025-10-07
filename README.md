@@ -13,7 +13,6 @@ It demonstrates the use of **Object-Oriented Programming (OOP)** concepts in bui
 
 ---
 
-## 🖥️ How to Run the Project
 
 ## 🚀 How to Run
 
